@@ -46,3 +46,5 @@ addItemToCart(cart, "Book");
 addItemToCart(cart, "Pen");
 
 console.log(cart);
+
+export {};
